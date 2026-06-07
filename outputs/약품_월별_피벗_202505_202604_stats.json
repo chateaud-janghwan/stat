@@ -1,0 +1,122 @@
+[
+  {
+    "file": "202505약품사용현황(단가포함).xlsx",
+    "month": "2025년 5월",
+    "sourceRows": 2244,
+    "updatedRows": 0,
+    "newRows": 2244,
+    "skippedWithoutKd": 78,
+    "duplicatedRowsMerged": 19,
+    "headerRow": 2
+  },
+  {
+    "file": "202506약품사용현황(단가포함).xlsx",
+    "month": "2025년 6월",
+    "sourceRows": 2223,
+    "updatedRows": 2158,
+    "newRows": 65,
+    "skippedWithoutKd": 64,
+    "duplicatedRowsMerged": 25,
+    "headerRow": 2
+  },
+  {
+    "file": "202507약품사용현황(단가포함).xlsx",
+    "month": "2025년 7월",
+    "sourceRows": 2267,
+    "updatedRows": 2208,
+    "newRows": 59,
+    "skippedWithoutKd": 73,
+    "duplicatedRowsMerged": 18,
+    "headerRow": 2
+  },
+  {
+    "file": "202508약품사용현황(단가포함).xlsx",
+    "month": "2025년 8월",
+    "sourceRows": 2254,
+    "updatedRows": 2211,
+    "newRows": 43,
+    "skippedWithoutKd": 80,
+    "duplicatedRowsMerged": 24,
+    "headerRow": 2
+  },
+  {
+    "file": "202509약품사용현황(단가포함).xlsx",
+    "month": "2025년 9월",
+    "sourceRows": 2268,
+    "updatedRows": 2225,
+    "newRows": 43,
+    "skippedWithoutKd": 69,
+    "duplicatedRowsMerged": 37,
+    "headerRow": 2
+  },
+  {
+    "file": "202510약품사용현황(단가포함).xlsx",
+    "month": "2025년 10월",
+    "sourceRows": 2252,
+    "updatedRows": 2229,
+    "newRows": 23,
+    "skippedWithoutKd": 120,
+    "duplicatedRowsMerged": 2003,
+    "headerRow": 2
+  },
+  {
+    "file": "202511약품사용현황(단가포함).xlsx",
+    "month": "2025년 11월",
+    "sourceRows": 2268,
+    "updatedRows": 2250,
+    "newRows": 18,
+    "skippedWithoutKd": 78,
+    "duplicatedRowsMerged": 14,
+    "headerRow": 2
+  },
+  {
+    "file": "202512약품사용현황(단가포함).xlsx",
+    "month": "2025년 12월",
+    "sourceRows": 2263,
+    "updatedRows": 2249,
+    "newRows": 14,
+    "skippedWithoutKd": 65,
+    "duplicatedRowsMerged": 76,
+    "headerRow": 2
+  },
+  {
+    "file": "202601약품사용현황(단가포함).xlsx",
+    "month": "2026년 1월",
+    "sourceRows": 2224,
+    "updatedRows": 2209,
+    "newRows": 15,
+    "skippedWithoutKd": 74,
+    "duplicatedRowsMerged": 225,
+    "headerRow": 2
+  },
+  {
+    "file": "202602약품사용현황(단가포함).xlsx",
+    "month": "2026년 2월",
+    "sourceRows": 2300,
+    "updatedRows": 2238,
+    "newRows": 62,
+    "skippedWithoutKd": 70,
+    "duplicatedRowsMerged": 65,
+    "headerRow": 2
+  },
+  {
+    "file": "202603약품사용현황(단가포함).xlsx",
+    "month": "2026년 3월",
+    "sourceRows": 2282,
+    "updatedRows": 2260,
+    "newRows": 22,
+    "skippedWithoutKd": 78,
+    "duplicatedRowsMerged": 34,
+    "headerRow": 2
+  },
+  {
+    "file": "202604약품사용현황(단가포함).xlsx",
+    "month": "2026년 4월",
+    "sourceRows": 2285,
+    "updatedRows": 2267,
+    "newRows": 18,
+    "skippedWithoutKd": 74,
+    "duplicatedRowsMerged": 95,
+    "headerRow": 2
+  }
+]
